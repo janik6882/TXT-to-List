@@ -13,5 +13,7 @@ def get_content(filename):
     return res
 
 if __name__ == '__main__':
-    get_content("test.txt")
-print (res) #Auskommentieren wenn kein output via Print gewünscht
+    x = get_content("test.txt")
+    for i in x:
+        print i
+    print ([i for i in x]) #Auskommentieren wenn kein output via Print gewünscht
