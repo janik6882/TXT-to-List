@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 __github__ = "https://github.com/janik6882/TXT-to-List"
+__author__ = "Janik Klauenberg"
+__version__ = 1.2
 from io import open
 #Hier drunter befinden sich alle Variablen
 
