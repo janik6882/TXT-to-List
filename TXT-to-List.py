@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__github__ =
+__github__ = "https://github.com/janik6882/TXT-to-List"
 from io import open
 #Hier drunter befinden sich alle Variablen
 
